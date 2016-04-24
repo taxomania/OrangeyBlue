@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Tariq\Documents\Visual Studio 2013\Projects\RedOrBlack\RedOrBlack\bin\x64\Release\OrangeyBlue_1.1.2.4_x64.appx
+SymbolPackage=C:\Users\Tariq\Documents\Visual Studio 2013\Projects\RedOrBlack\RedOrBlack\AppPackages\OrangeyBlue_1.1.2.4_Test\OrangeyBlue_1.1.2.4_x64.appxsym
